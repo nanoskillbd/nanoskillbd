@@ -32,4 +32,4 @@ I am also the founder of **Nano Skill BD**, Bangladesh's first Micro Learning Pl
 
 * **LinkedIn:** [linkedin.com/in/hasan-md-shahriare](https://www.linkedin.com/in/hasan-md-shahriare)
 * **Personal Website:** [https://hasanshahriare.com](https://hasanshahriare.com)
-* **Email:** [ceo@nanoskillbd.com.com](mailto:ceo@nanoskillbd.com)
+* **Email:** [ceo@nanoskillbd.com](mailto:ceo@nanoskillbd.com)
