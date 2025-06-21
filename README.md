@@ -24,7 +24,7 @@ I am also the founder of **Nano Skill BD**, Bangladesh's first Micro Learning Pl
 * **Classification of Heart Sounds using Machine Learning:** Developed an LSTM-CNN model for automated cardiac auscultation. This paper is accepted for presentation at the **4th International Conference on Electrical, Computer, and Communication Engineering (ECCE 2025)** and is already been published in IEEE Xplore. **[Read the publication on IEEE Xplore](https://ieeexplore.ieee.org/document/11013872)**.
 * **AI-Integrated Vessel Scheduling System:** Implemented predictive analytics to optimize ship schedules for major logistics companies like Bashundhara Group & HR Lines.
 * **Non-Invasive Blood Glucose Monitoring:** Designing an innovative system using image processing and AI to estimate blood sugar levels from skin images.
-* **AI-Based Vehicle Number Plate Recognition:** Led the development and deployment of a number plate recognition system for Olympic Industries Ltd.
+* **AI-Based Vehicle Number Plate Recognition:** Led the development and deployment of a number plate recognition system for a large FMCG in Bangladesh.
 
 ---
 
