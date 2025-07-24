@@ -4,7 +4,7 @@
 
 I am a results-driven CTO with over 16 years of experience specializing in AI-powered innovations, large-scale ERP systems, and IoT integration. My passion is leveraging technology to solve complex challenges in healthcare, logistics, and real estate.
 
-I am currently the CTO at **Magnetism Tech Limited** and pursuing my MS in Electronic and Telecommunication Engineering at CUET, focusing on AI-based health diagnostics.
+I am currently the Genaral Manager at **Magnetism Tech Limited** and pursuing my MS in Electronic and Telecommunication Engineering at CUET, focusing on AI-based health diagnostics.
 
 I am also the founder of **Nano Skill BD**, Bangladesh's first Micro Learning Platform 
 
